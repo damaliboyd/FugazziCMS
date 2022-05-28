@@ -1,0 +1,9 @@
+{
+  "name": "web-ui",
+  "version": "0.0.0",
+  "description": "WebUi",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
