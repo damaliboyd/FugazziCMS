@@ -1,4 +1,4 @@
-namespace WebApi
+namespace Core.Models
 {
     public class WeatherForecast
     {
